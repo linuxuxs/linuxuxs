@@ -5,8 +5,13 @@ Hello! 🍀
 # **ABOUT ME**
 
 I'm *Nicoleta*, you can call me Nico. 
-I enjoy programming and learning new things!
+
+I enjoy programming.
+
+Still learning a lot of things, this is why I adore it.
+
 My native language is Romanian, and I'm fluent in English.
+
 💬 I'm a very curious person, so if I'm learning something new, I love to dig deeper into research!
 
 # **MY SKILLS**
