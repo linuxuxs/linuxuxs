@@ -2,7 +2,7 @@ Hello! 🍀
 
 👯 I’m looking to collaborate! You can contact me via my gmail.
 
-##ABOUT ME
+# **ABOUT ME**
 
 I'm *Nicoleta*, you can call me Nico. 
 I enjoy programming and learning new things!
