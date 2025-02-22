@@ -1,4 +1,4 @@
-Hello! 🍀
+Jesus **is** the King.
 
 👯 I’m looking to collaborate! You can contact me via my gmail.
 
