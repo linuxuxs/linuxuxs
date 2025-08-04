@@ -14,7 +14,7 @@ My native language is Romanian, and I'm fluent in English.
 
 # **MY SKILLS**
 
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 
 ![Godot](https://img.shields.io/badge/Engine-Godot-blue?logo=godot-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white)
