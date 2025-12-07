@@ -17,7 +17,11 @@ Programming languages:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-B07ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-B07ACC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-B07ACC?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-B07ACC?style=for-the-badge&logo=python&logoColor=white)
+
+
+
 
 
 ----
@@ -36,7 +40,6 @@ Other:
 ![Unity](https://img.shields.io/badge/Unity-FF99AA?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-FF99AA?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FF99AA?style=for-the-badge&logo=arduino&logoColor=white)
-![SHVDN](https://img.shields.io/badge/SHVDN-FF99AA?style=for-the-badge&logo=dot-net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF99AA?style=for-the-badge&logo=sql&logoColor=white)
 
 
@@ -44,5 +47,4 @@ Other:
 
 
 -----
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=linuxuxs&show_icons=true&theme=dark) 
+![trophy](https://github-profile-trophy.vercel.app/?username=linuxuxs&theme=darkhub)
