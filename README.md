@@ -19,6 +19,7 @@ Programming languages:
 ![C](https://img.shields.io/badge/C-B07ACC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-B07ACC?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-B07ACC?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-B07ACC?style=for-the-badge&logo=lua&logoColor=white)
 
 
 
@@ -29,10 +30,8 @@ C++ Libraies:
 
 ![SFML](https://img.shields.io/badge/SFML-6CA0DC?style=for-the-badge&logo=sfml&logoColor=white)
 ![raylib](https://img.shields.io/badge/raylib-6CA0DC?style=for-the-badge&logo=raylib&logoColor=white)
-![Win32 API](https://img.shields.io/badge/Win32_API-6CA0DC?style=for-the-badge&logo=windows&logoColor=white)
-![Socket.h](https://img.shields.io/badge/Sys/Socket.h-6CA0DC?style=for-the-badge&logo=web&logoColor=white)
-
-
+![OpenGL](https://img.shields.io/badge/OpenGL-6CA0DC?style=for-the-badge&logo=opengl&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-6CA0DC?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ----
 Other:  
@@ -43,8 +42,3 @@ Other:
 ![SQL](https://img.shields.io/badge/SQL-FF99AA?style=for-the-badge&logo=sql&logoColor=white)
 
 
-
-
-
------
-![trophy](https://github-profile-trophy.vercel.app/?username=linuxuxs&theme=darkhub)
