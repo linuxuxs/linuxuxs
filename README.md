@@ -20,7 +20,7 @@ Programming languages:
 ![C#](https://img.shields.io/badge/C%23-B07ACC?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-B07ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-B07ACC?style=for-the-badge&logo=lua&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-B07ACC?style=for-the-badge&logo=Java&logoColor=white)
 
 
 
