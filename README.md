@@ -22,16 +22,19 @@ Programming languages:
 ![Lua](https://img.shields.io/badge/Lua-B07ACC?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07ACC?style=for-the-badge&logo=Java&logoColor=white)
 
-
-
-
 ----
-C++ Libraies:  
+Libraies:  
+---
+py:  
 
-![SFML](https://img.shields.io/badge/SFML-6CA0DC?style=for-the-badge&logo=sfml&logoColor=white)
-![raylib](https://img.shields.io/badge/raylib-6CA0DC?style=for-the-badge&logo=raylib&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-6CA0DC?style=for-the-badge&logo=opengl&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-6CA0DC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-B57EDC?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-B57EDC?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-B57EDC?style=for-the-badge&logo=pandas&logoColor=white)
+
+c++:  
+
+![OpenGL](https://img.shields.io/badge/OpenGL-B57EDC?style=for-the-badge&logo=opengl&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-B57EDC?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ----
 Other:  
@@ -41,4 +44,10 @@ Other:
 ![Arduino](https://img.shields.io/badge/Arduino-FF99AA?style=for-the-badge&logo=arduino&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF99AA?style=for-the-badge&logo=sql&logoColor=white)
 
+----
 
+AI & Automation:  
+* Azure AI Foundry
+* AI Automation
+* Prompt Engineering
+* AI Agents 
